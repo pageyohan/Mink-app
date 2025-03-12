@@ -1,0 +1,44 @@
+services:
+  database:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: mink_app
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+
+  symfony:
+    build: ./backend
+    volumes:
+      - ./backend/symfony:/var/www/html
+    ports:
+      - "8000:8000"
+    depends_on:
+      - database
+    environment:
+      DATABASE_URL: mysql://user:password@database:3306/mink_app
+
+  react:
+    build: ./frontend
+    volumes:
+      - ./frontend/react:/app
+    ports:
+      - "5173:5173"
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - "8080:80"
+    environment:
+      - PMA_HOST=database
+      - PMA_USER=user
+      - PMA_PASSWORD=password
+    depends_on:
+      - database
+
+volumes:
+  db_data:

@@ -1,0 +1,2536 @@
+{
+  "exercice-technique-mink": {
+    "backend\\Dockerfile": [
+      {
+        "date": "2025-03-11T18:28:48.420Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-11T18:28:51.765Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-11T18:29:17.862Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-11T18:29:18.026Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-11T18:29:55.412Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-11T18:29:56.480Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:30:01.761Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-11T18:33:25.517Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-11T18:33:40.886Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-03-11T18:34:38.533Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2025-03-11T18:35:26.076Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2025-03-11T18:35:28.585Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-11T18:36:07.874Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-03-11T18:50:04.101Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 836
+      },
+      {
+        "date": "2025-03-11T18:50:43.710Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 40
+      },
+      {
+        "date": "2025-03-11T18:50:47.238Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:51:17.220Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2025-03-11T18:51:49.435Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-03-11T18:51:56.899Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-11T18:52:07.087Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-03-11T18:52:14.362Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-11T18:54:33.084Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-11T18:54:34.150Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:54:36.188Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-11T18:54:39.800Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:54:51.305Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-03-11T18:55:09.337Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-03-11T18:55:16.975Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-11T18:55:28.286Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-11T18:55:35.791Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-11T18:56:16.539Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 41
+      },
+      {
+        "date": "2025-03-11T18:56:53.526Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2025-03-12T16:20:58.083Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:21:06.368Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-12T16:21:08.992Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      }
+    ],
+    "docker-compose.yaml": [
+      {
+        "date": "2025-03-11T18:29:04.131Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:29:26.663Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:29:30.728Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:29:33.119Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-11T18:29:44.331Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-11T18:30:08.932Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:30:19.525Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-11T18:30:25.228Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-11T18:30:54.839Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2025-03-11T18:31:06.096Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-11T18:52:23.752Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:52:30.382Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-11T18:52:39.489Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-03-11T18:52:53.916Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-03-11T18:53:03.866Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-03-11T18:53:18.605Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-03-11T18:53:40.293Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-03-11T18:54:00.635Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-03-12T16:19:04.930Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:19:09.097Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T16:19:14.389Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T16:19:17.778Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:19:21.085Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:19:23.048Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:19:23.252Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-12T16:19:24.239Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:22:25.735Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:22:29.695Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T16:22:32.681Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:22:36.060Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:23:27.852Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 52
+      },
+      {
+        "date": "2025-03-12T16:24:06.138Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-03-12T16:27:25.911Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 200
+      },
+      {
+        "date": "2025-03-12T16:27:27.231Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:27:29.791Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:27:32.257Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:28:24.651Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 52
+      },
+      {
+        "date": "2025-03-12T16:29:03.413Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-03-12T16:30:48.037Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 105
+      },
+      {
+        "date": "2025-03-12T16:30:57.306Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-03-12T16:31:05.238Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-12T16:31:39.759Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 35
+      },
+      {
+        "date": "2025-03-12T16:32:42.045Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2025-03-12T16:32:58.051Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-03-12T16:34:10.638Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 73
+      },
+      {
+        "date": "2025-03-12T16:34:10.775Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-12T16:38:59.788Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:39:01.581Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:39:04.326Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:39:17.929Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-03-12T16:39:31.847Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-03-12T16:39:33.789Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:39:49.969Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-03-12T16:40:27.247Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2025-03-12T16:40:43.574Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-03-12T16:40:56.765Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-12T19:29:32.963Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-12T19:30:09.399Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2025-03-12T19:30:57.274Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2025-03-12T19:30:58.448Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "frontend\\Dockerfile": [
+      {
+        "date": "2025-03-11T18:29:13.663Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-11T18:29:21.916Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:29:22.650Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:29:47.301Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-11T18:29:52.141Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-11T18:30:06.679Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:32:00.611Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:32:11.192Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-12T16:21:41.267Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:21:48.355Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-12T19:27:17.308Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-12T19:27:59.029Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2025-03-12T19:28:29.381Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 30
+      }
+    ],
+    "README.md": [
+      {
+        "date": "2025-03-11T18:31:27.533Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:31:38.296Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-11T18:57:44.885Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-11T18:57:49.267Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-11T18:57:55.213Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-11T18:57:55.914Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:58:08.495Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-11T18:58:33.525Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 25
+      }
+    ],
+    "frontend\\react\\package.json": [
+      {
+        "date": "2025-03-11T18:58:49.716Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-11T18:58:55.398Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-11T18:59:12.497Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-03-12T16:15:36.364Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2025-03-12T16:16:42.186Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 66
+      }
+    ],
+    "frontend\\react\\tailwind.config.js": [
+      {
+        "date": "2025-03-12T16:13:53.306Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:14:09.188Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-03-12T16:14:10.405Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:14:21.432Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-12T16:14:29.252Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-12T16:14:51.991Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-03-12T16:17:18.357Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-12T16:17:47.152Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-03-12T16:41:10.544Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:41:11.628Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "frontend\\react\\postcss.config.js": [
+      {
+        "date": "2025-03-12T16:17:55.879Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:17:58.273Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:17:59.541Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:41:19.136Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      }
+    ],
+    "frontend\\react\\src\\index.css": [
+      {
+        "date": "2025-03-12T16:18:07.324Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T16:18:08.372Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:18:13.360Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T16:18:18.244Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T16:19:55.763Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-03-12T16:20:52.229Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 56
+      }
+    ],
+    "backend\\start.sh": [
+      {
+        "date": "2025-03-12T16:21:14.160Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:21:16.594Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:21:19.563Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:21:24.254Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T16:21:27.070Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:21:34.799Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      }
+    ],
+    "frontend\\start.sh": [
+      {
+        "date": "2025-03-12T16:21:56.685Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:21:58.799Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:22:00.930Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:22:02.874Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:22:05.043Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:22:06.815Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:22:11.959Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      }
+    ],
+    "frontend\\react\\postcss.config.cjs": [
+      {
+        "date": "2025-03-12T16:34:23.689Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:34:34.883Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-12T16:35:06.835Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-03-12T16:35:16.526Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-03-12T16:35:29.596Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-12T16:35:39.796Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-03-12T16:36:15.210Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 35
+      },
+      {
+        "date": "2025-03-12T16:36:51.792Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2025-03-12T16:37:13.695Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-03-12T16:37:23.354Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-03-12T16:37:52.478Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-03-12T16:38:50.285Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2025-03-12T16:38:58.917Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 9
+      }
+    ],
+    "frontend\\react\\src\\main.tsx": [
+      {
+        "date": "2025-03-12T16:41:36.530Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T16:41:44.446Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-12T16:42:20.654Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2025-03-12T16:43:03.933Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2025-03-12T16:43:11.324Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      }
+    ],
+    "frontend\\react\\index.html": [
+      {
+        "date": "2025-03-12T16:43:17.762Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T16:43:23.348Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-12T16:43:25.288Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:43:27.521Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:43:30.576Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:44:13.951Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2025-03-12T16:45:22.713Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 69
+      },
+      {
+        "date": "2025-03-12T16:47:55.469Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 153
+      },
+      {
+        "date": "2025-03-12T16:48:01.809Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-12T16:49:05.466Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 64
+      },
+      {
+        "date": "2025-03-12T16:49:10.640Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T16:49:26.690Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-03-12T16:49:49.805Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-03-12T16:49:57.906Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-12T16:50:01.387Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T16:50:08.031Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-12T16:50:22.961Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-03-12T16:50:36.588Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-03-12T16:50:55.067Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-03-12T16:50:56.770Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:51:04.021Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-12T16:51:10.957Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-12T16:51:16.787Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-12T16:51:17.545Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:51:21.480Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T16:51:23.331Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:51:31.143Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-03-12T16:51:32.826Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:52:20.455Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2025-03-12T16:52:25.607Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T16:52:54.445Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 29
+      }
+    ],
+    "backend\\symfony\\src\\Entity\\Animal.php": [
+      {
+        "date": "2025-03-12T16:53:23.245Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-12T19:08:32.419Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:08:51.270Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-03-12T19:08:55.703Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:10:10.079Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:10:11.954Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:13:24.802Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-12T19:19:03.185Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:19:12.329Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:20:27.206Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "backend\\symfony\\src\\Entity\\Race.php": [
+      {
+        "date": "2025-03-12T16:53:52.247Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T16:53:52.430Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-12T19:09:05.142Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:09:43.131Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-03-12T19:09:48.864Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-12T19:09:57.629Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-03-12T19:10:01.559Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:10:07.040Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T19:10:19.969Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:10:21.464Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:10:34.357Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-12T19:13:46.077Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:19:15.718Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:19:16.974Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:20:35.307Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      }
+    ],
+    "backend\\symfony\\src\\Entity\\TypeAnimal.php": [
+      {
+        "date": "2025-03-12T16:54:00.527Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:54:01.180Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:10:37.927Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:10:39.456Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:10:45.048Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-03-12T19:13:54.355Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:14:00.872Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-12T19:14:05.076Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:14:07.876Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:19:19.910Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:19:21.106Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:19:22.356Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:20:39.150Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "backend\\symfony\\src\\Entity\\Photo.php": [
+      {
+        "date": "2025-03-12T16:54:08.714Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:54:09.158Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-12T19:09:01.169Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:10:16.842Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T19:10:47.977Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:13:32.612Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:13:36.859Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:13:39.094Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:13:40.540Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:13:42.665Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:19:07.048Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:20:30.639Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "backend\\symfony\\src\\Entity\\UtilisateurAdmin.php": [
+      {
+        "date": "2025-03-12T16:54:19.886Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:54:20.435Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T16:55:05.554Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 45
+      },
+      {
+        "date": "2025-03-12T16:58:08.971Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 183
+      },
+      {
+        "date": "2025-03-12T19:19:25.138Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:19:26.050Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:19:26.319Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-12T19:20:05.934Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:20:22.736Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-03-12T19:20:44.156Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:20:59.785Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-03-12T19:21:03.367Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      }
+    ],
+    "backend\\symfony\\src\\Repository\\AnimalRepository.php": [
+      {
+        "date": "2025-03-12T19:10:57.207Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T19:10:59.366Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:11:15.987Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-03-12T19:11:18.041Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:11:25.372Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      }
+    ],
+    "backend\\symfony\\src\\Repository\\RaceRepository.php": [
+      {
+        "date": "2025-03-12T19:11:34.341Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:11:38.435Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      }
+    ],
+    "backend\\symfony\\src\\Repository\\TypeAnimalRepository.php": [
+      {
+        "date": "2025-03-12T19:11:47.212Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:11:51.219Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      }
+    ],
+    "backend\\symfony\\src\\Repository\\PhotoRepository.php": [
+      {
+        "date": "2025-03-12T19:12:03.586Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:12:06.628Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:12:12.848Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 6
+      }
+    ],
+    "backend\\symfony\\src\\DataFixtures\\AppFixtures.php": [
+      {
+        "date": "2025-03-12T19:13:06.272Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:13:16.903Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-03-12T19:16:38.103Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-03-12T19:16:42.509Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:16:43.579Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:16:44.309Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:17:40.283Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 56
+      }
+    ],
+    "backend\\symfony\\config\\routes\\security.yaml": [
+      {
+        "date": "2025-03-12T19:14:27.060Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-03-12T19:14:31.707Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 5
+      }
+    ],
+    "backend\\symfony\\config\\packages\\security.yaml": [
+      {
+        "date": "2025-03-12T19:14:37.011Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:14:40.931Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:15:09.147Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-03-12T19:15:23.365Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-03-12T19:15:29.398Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 2
+      }
+    ],
+    "backend\\symfony\\config\\packages\\nelmio_cors.yaml": [
+      {
+        "date": "2025-03-12T19:14:58.900Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:15:03.028Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 4
+      }
+    ],
+    "backend\\symfony\\config\\packages\\doctrine.yaml": [
+      {
+        "date": "2025-03-12T19:15:32.392Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      }
+    ],
+    "backend\\symfony\\config\\packages\\api_platform.yaml": [
+      {
+        "date": "2025-03-12T19:21:48.107Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-03-12T19:21:48.559Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-12T19:22:41.144Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 53
+      },
+      {
+        "date": "2025-03-12T19:22:47.817Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-12T19:22:49.035Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-03-12T19:22:49.420Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-03-12T19:23:06.144Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-03-12T19:23:44.444Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-03-12T19:24:11.423Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-03-12T19:26:21.301Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 130
+      },
+      {
+        "date": "2025-03-12T19:26:28.516Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-03-12T19:26:41.638Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-03-12T19:26:58.876Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 17
+      }
+    ],
+    "backend\\symfony\\.gitignore": [
+      {
+        "date": "2025-03-12T19:28:43.469Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 12
+      }
+    ],
+    "frontend\\react\\.gitignore": [
+      {
+        "date": "2025-03-12T19:29:06.909Z",
+        "user": {
+          "name": "Yohan",
+          "email": "yohan.page87@gmail.com"
+        },
+        "timeSpent": 3
+      }
+    ]
+  }
+}
